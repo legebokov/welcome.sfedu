@@ -1,0 +1,91 @@
+body {
+  padding-top: 20px;
+}
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+.navbar {
+  background-image: linear-gradient(to bottom, #f7f7f7 0%,#eee 100%);
+  border: 1px solid #e5e5e5;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .navbar-nav .nav-item {
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .masthead,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clear {
+    clear: both;
+}
+a {
+    color: #221188;
+}
+a:hover{
+    color: #df3b09;
+}
+.sfedu-active, .sfedu-active a{
+    color: red;
+}
+
+.poster{
+    #position:relative;
+}
+.descr{
+    display:none;
+}
+.poster:hover .descr{
+    display:block;
+    #position:absolute;
+    top:0px;
+    z-index:9999;
+}
+.col-19{
+    flex: 0 0 19.7%;
+    max-width: 19.7%;
+}
+.col-19 h5{
+    margin-top: 15px;
+}
+.col-19 div a img{
+    width: 90%;
+    height: 100%;
+}
