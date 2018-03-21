@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06b1a33a-398e-4afb-9900-0606c0005950" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/program-mag-eng.html" afterPath="$PROJECT_DIR$/program-mag-eng.html" />
-      <change beforePath="$PROJECT_DIR$/programms/09.04.01-информ и вычислит техника.html" afterPath="$PROJECT_DIR$/programms/09.04.01-информ и вычислит техника.html" />
-      <change beforePath="$PROJECT_DIR$/programms/09.04.03-прикладная информатика.html" afterPath="$PROJECT_DIR$/programms/09.04.03-прикладная информатика.html" />
-      <change beforePath="$PROJECT_DIR$/programms/15.04.04.html" afterPath="$PROJECT_DIR$/programms/15.04.04.html" />
-      <change beforePath="$PROJECT_DIR$/programms/15.04.06-мехатроника.html" afterPath="$PROJECT_DIR$/programms/15.04.06-мехатроника.html" />
-      <change beforePath="$PROJECT_DIR$/programms/27.04.04-упр в тех схемах.html" afterPath="$PROJECT_DIR$/programms/27.04.04-упр в тех схемах.html" />
-      <change beforePath="$PROJECT_DIR$/programms/28.04.01 Таганрог.html" afterPath="$PROJECT_DIR$/programms/28.04.01 Таганрог.html" />
-      <change beforePath="$PROJECT_DIR$/programms/28.04.01.html" afterPath="$PROJECT_DIR$/programms/28.04.01.html" />
+      <change beforePath="$PROJECT_DIR$/program-mag-mat.html" afterPath="$PROJECT_DIR$/program-mag-mat.html" />
+      <change beforePath="$PROJECT_DIR$/programms/01.04.02-ПМиИ МАГ.html" afterPath="$PROJECT_DIR$/programms/01.04.02-ПМиИ МАГ.html" />
+      <change beforePath="$PROJECT_DIR$/programms/01.04.02-ПМиИ.html" afterPath="$PROJECT_DIR$/programms/01.04.02-ПМиИ.html" />
+      <change beforePath="$PROJECT_DIR$/programms/03.04.02.html" afterPath="$PROJECT_DIR$/programms/03.04.02.html" />
+      <change beforePath="$PROJECT_DIR$/programms/06.04.01 - Биология.html" afterPath="$PROJECT_DIR$/programms/06.04.01 - Биология.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,24 +20,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="program-mag-eng.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
+      <file leaf-file-name="program-mag-mat.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/program-mag-mat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="246" column="166" lean-forward="false" selection-start-line="246" selection-start-column="166" selection-end-line="246" selection-end-column="166" />
-              <folding />
+            <state relative-caret-position="185">
+              <caret line="143" column="31" lean-forward="true" selection-start-line="143" selection-start-column="31" selection-end-line="143" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#th#4;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15.04.04.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programms/15.04.04.html">
+      <file leaf-file-name="06.04.01 - Биология.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programms/06.04.01 - Биология.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-422">
-              <caret line="112" column="38" lean-forward="false" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="156" column="68" lean-forward="false" selection-start-line="156" selection-start-column="68" selection-end-line="156" selection-end-column="68" />
               <folding>
-                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.04.02 - Почвоведение.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programms/06.04.02 - Почвоведение.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="245" column="24" lean-forward="false" selection-start-line="245" selection-start-column="24" selection-end-line="245" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,6 +59,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>-bac-</find>
+      <find>Мор</find>
     </findStrings>
     <replaceStrings>
       <replace>-mag-</replace>
@@ -83,6 +93,12 @@
         <option value="$PROJECT_DIR$/programms/27.04.04-упр в тех схемах.html" />
         <option value="$PROJECT_DIR$/programms/15.04.04.html" />
         <option value="$PROJECT_DIR$/program-mag-eng.html" />
+        <option value="$PROJECT_DIR$/programms/01.04.02-ПМиИ МАГ.html" />
+        <option value="$PROJECT_DIR$/programms/01.04.02-ПМиИ.html" />
+        <option value="$PROJECT_DIR$/programms/03.04.02.html" />
+        <option value="$PROJECT_DIR$/programms/06.04.01 - Биология.html" />
+        <option value="$PROJECT_DIR$/programms/06.04.02 - Почвоведение.html" />
+        <option value="$PROJECT_DIR$/program-mag-mat.html" />
       </list>
     </option>
   </component>
@@ -146,6 +162,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programms" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -173,12 +194,12 @@
       <updated>1521014951692</updated>
       <workItem from="1521014953108" duration="2806000" />
       <workItem from="1521456144111" duration="364000" />
-      <workItem from="1521615852487" duration="3796000" />
+      <workItem from="1521615852487" duration="5313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6966000" />
+    <option name="totallyTimeSpent" value="8483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
@@ -188,6 +209,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -199,7 +221,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -265,6 +286,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="144" column="45" lean-forward="false" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -279,6 +301,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="144" column="45" lean-forward="false" selection-start-line="144" selection-start-column="45" selection-end-line="144" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -467,6 +490,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="246" column="166" lean-forward="false" selection-start-line="246" selection-start-column="166" selection-end-line="246" selection-end-column="166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/programms/15.04.04.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-422">
@@ -477,11 +508,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
+    <entry file="file://$PROJECT_DIR$/programms/01.04.02-ПМиИ МАГ.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="246" column="166" lean-forward="false" selection-start-line="246" selection-start-column="166" selection-end-line="246" selection-end-column="166" />
+        <state relative-caret-position="226">
+          <caret line="106" column="38" lean-forward="false" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/01.04.02-ПМиИ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="118" column="17" lean-forward="false" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/03.04.02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="118" column="16" lean-forward="false" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/img/0604bio.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/06.04.01 - Биология.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="156" column="68" lean-forward="false" selection-start-line="156" selection-start-column="68" selection-end-line="156" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#div#7;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/06.04.02 - Почвоведение.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="245" column="24" lean-forward="false" selection-start-line="245" selection-start-column="24" selection-end-line="245" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-mag-mat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="143" column="31" lean-forward="true" selection-start-line="143" selection-start-column="31" selection-end-line="143" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#th#4;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
