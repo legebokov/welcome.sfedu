@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06b1a33a-398e-4afb-9900-0606c0005950" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/program-mag-eng.html" afterPath="$PROJECT_DIR$/program-mag-eng.html" />
-      <change beforePath="$PROJECT_DIR$/program-mag-ped.html" afterPath="$PROJECT_DIR$/program-mag-ped.html" />
-      <change beforePath="$PROJECT_DIR$/programms/07.04.01-архитектура.html" afterPath="$PROJECT_DIR$/programms/07.04.01-архитектура.html" />
-      <change beforePath="$PROJECT_DIR$/programms/11.03.02-Инфоком.технол.html" afterPath="$PROJECT_DIR$/programms/11.03.02-Инфоком.технол.html" />
-      <change beforePath="$PROJECT_DIR$/programms/11.03.02-Инфоком.технологии.Физфак.html" afterPath="$PROJECT_DIR$/programms/11.03.02-Инфоком.технологии.Физфак.html" />
-      <change beforePath="$PROJECT_DIR$/programms/13.03.02-электроэнергетика и электротехника.html" afterPath="$PROJECT_DIR$/programms/13.03.02-электроэнергетика и электротехника.html" />
-      <change beforePath="$PROJECT_DIR$/programms/13.04.02-электроэнергетика и электротехника.html" afterPath="$PROJECT_DIR$/programms/13.04.02-электроэнергетика и электротехника.html" />
-      <change beforePath="$PROJECT_DIR$/programms/44.04.01-оздоров физ культ.html" afterPath="$PROJECT_DIR$/programms/44.04.01-оздоров физ культ.html" />
-      <change beforePath="$PROJECT_DIR$/programms/44.04.01-педагогическое образование.html" afterPath="$PROJECT_DIR$/programms/44.04.01-педагогическое образование.html" />
-      <change beforePath="$PROJECT_DIR$/programms/44.04.01-проектирование пед систем в биолог и хим образ.html" afterPath="$PROJECT_DIR$/programms/44.04.01-проектирование пед систем в биолог и хим образ.html" />
-      <change beforePath="$PROJECT_DIR$/programms/44.04.01-физическое образование.html" afterPath="$PROJECT_DIR$/programms/44.04.01-физическое образование.html" />
-      <change beforePath="$PROJECT_DIR$/programms/44.04.02.html" afterPath="$PROJECT_DIR$/programms/44.04.02.html" />
+      <change beforePath="$PROJECT_DIR$/programms/09.04.01-информ и вычислит техника.html" afterPath="$PROJECT_DIR$/programms/09.04.01-информ и вычислит техника.html" />
+      <change beforePath="$PROJECT_DIR$/programms/09.04.03-прикладная информатика.html" afterPath="$PROJECT_DIR$/programms/09.04.03-прикладная информатика.html" />
+      <change beforePath="$PROJECT_DIR$/programms/15.04.04.html" afterPath="$PROJECT_DIR$/programms/15.04.04.html" />
+      <change beforePath="$PROJECT_DIR$/programms/15.04.06-мехатроника.html" afterPath="$PROJECT_DIR$/programms/15.04.06-мехатроника.html" />
+      <change beforePath="$PROJECT_DIR$/programms/27.04.04-упр в тех схемах.html" afterPath="$PROJECT_DIR$/programms/27.04.04-упр в тех схемах.html" />
+      <change beforePath="$PROJECT_DIR$/programms/28.04.01 Таганрог.html" afterPath="$PROJECT_DIR$/programms/28.04.01 Таганрог.html" />
+      <change beforePath="$PROJECT_DIR$/programms/28.04.01.html" afterPath="$PROJECT_DIR$/programms/28.04.01.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +22,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="program-mag-eng.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="246" column="166" lean-forward="false" selection-start-line="246" selection-start-column="166" selection-end-line="246" selection-end-column="166" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15.04.04.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programms/15.04.04.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-422">
+              <caret line="112" column="38" lean-forward="false" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -49,7 +67,6 @@
         <option value="$PROJECT_DIR$/programms/11.03.02-Инфоком.технол.html" />
         <option value="$PROJECT_DIR$/programms/11.03.02-Инфоком.технологии.Физфак.html" />
         <option value="$PROJECT_DIR$/programms/13.03.02-электроэнергетика и электротехника.html" />
-        <option value="$PROJECT_DIR$/program-mag-eng.html" />
         <option value="$PROJECT_DIR$/programms/13.04.02-электроэнергетика и электротехника.html" />
         <option value="$PROJECT_DIR$/programms/44.04.01-оздоров физ культ.html" />
         <option value="$PROJECT_DIR$/programms/44.04.01-педагогическое образование.html" />
@@ -58,6 +75,14 @@
         <option value="$PROJECT_DIR$/programms/44.04.02.html" />
         <option value="$PROJECT_DIR$/program-mag-ped.html" />
         <option value="$PROJECT_DIR$/programms/07.04.01-архитектура.html" />
+        <option value="$PROJECT_DIR$/programms/09.04.01-информ и вычислит техника.html" />
+        <option value="$PROJECT_DIR$/programms/09.04.03-прикладная информатика.html" />
+        <option value="$PROJECT_DIR$/programms/15.04.06-мехатроника.html" />
+        <option value="$PROJECT_DIR$/programms/28.04.01.html" />
+        <option value="$PROJECT_DIR$/programms/28.04.01 Таганрог.html" />
+        <option value="$PROJECT_DIR$/programms/27.04.04-упр в тех схемах.html" />
+        <option value="$PROJECT_DIR$/programms/15.04.04.html" />
+        <option value="$PROJECT_DIR$/program-mag-eng.html" />
       </list>
     </option>
   </component>
@@ -148,17 +173,18 @@
       <updated>1521014951692</updated>
       <workItem from="1521014953108" duration="2806000" />
       <workItem from="1521456144111" duration="364000" />
-      <workItem from="1521615852487" duration="2133000" />
+      <workItem from="1521615852487" duration="3796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5303000" />
+    <option name="totallyTimeSpent" value="6966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -311,22 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="240" column="97" lean-forward="false" selection-start-line="240" selection-start-column="97" selection-end-line="240" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programms/13.04.02-электроэнергетика и электротехника.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="217" column="16" lean-forward="true" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programms/11.03.02-Инфоком.технологии.Физфак.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -395,6 +405,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1909">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/09.04.01-информ и вычислит техника.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="118" column="16" lean-forward="false" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/09.04.03-прикладная информатика.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="236" column="190" lean-forward="false" selection-start-line="236" selection-start-column="190" selection-end-line="236" selection-end-column="190" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/13.04.02-электроэнергетика и электротехника.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-626">
+          <caret line="110" column="122" lean-forward="true" selection-start-line="110" selection-start-column="122" selection-end-line="110" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/15.04.06-мехатроника.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="108" column="39" lean-forward="true" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/28.04.01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="234" column="56" lean-forward="false" selection-start-line="234" selection-start-column="56" selection-end-line="234" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/28.04.01 Таганрог.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="149" column="63" lean-forward="false" selection-start-line="149" selection-start-column="63" selection-end-line="149" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/27.04.04-упр в тех схемах.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="238" column="8" lean-forward="false" selection-start-line="238" selection-start-column="8" selection-end-line="238" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/15.04.04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-422">
+          <caret line="112" column="38" lean-forward="false" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="246" column="166" lean-forward="false" selection-start-line="246" selection-start-column="166" selection-end-line="246" selection-end-column="166" />
           <folding />
         </state>
       </provider>
