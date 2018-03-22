@@ -3,10 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="06b1a33a-398e-4afb-9900-0606c0005950" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/program-mag-eng.html" afterPath="$PROJECT_DIR$/program-mag-eng.html" />
-      <change beforePath="$PROJECT_DIR$/program-mag-soc.html" afterPath="$PROJECT_DIR$/program-mag-soc.html" />
+      <change beforePath="$PROJECT_DIR$/programms/03.03.02-физика.html" afterPath="$PROJECT_DIR$/programms/03.03.02-физика.html" />
+      <change beforePath="$PROJECT_DIR$/programms/05.03.04.html" afterPath="$PROJECT_DIR$/programms/05.03.04.html" />
+      <change beforePath="$PROJECT_DIR$/programms/07.04.01-архитектура.html" afterPath="$PROJECT_DIR$/programms/07.04.01-архитектура.html" />
+      <change beforePath="$PROJECT_DIR$/programms/09.03.02-ИСиТ.html" afterPath="$PROJECT_DIR$/programms/09.03.02-ИСиТ.html" />
+      <change beforePath="$PROJECT_DIR$/programms/11.03.01-Радиотехнические средства связи.html" afterPath="$PROJECT_DIR$/programms/11.03.01-Радиотехнические средства связи.html" />
+      <change beforePath="$PROJECT_DIR$/programms/11.03.02-Инфоком.технол.html" afterPath="$PROJECT_DIR$/programms/11.03.02-Инфоком.технол.html" />
+      <change beforePath="$PROJECT_DIR$/programms/13.03.02-электроэнергетика и электротехника.html" afterPath="$PROJECT_DIR$/programms/13.03.02-электроэнергетика и электротехника.html" />
+      <change beforePath="$PROJECT_DIR$/programms/15.04.06-мехатроника.html" afterPath="$PROJECT_DIR$/programms/15.04.06-мехатроника.html" />
+      <change beforePath="$PROJECT_DIR$/programms/21.03.02.html" afterPath="$PROJECT_DIR$/programms/21.03.02.html" />
+      <change beforePath="$PROJECT_DIR$/programms/27.03.04-Упр. в тех. схемах.html" afterPath="$PROJECT_DIR$/programms/27.03.04-Упр. в тех. схемах.html" />
       <change beforePath="$PROJECT_DIR$/programms/37.04.02-Конфликтология.html" afterPath="$PROJECT_DIR$/programms/37.04.02-Конфликтология.html" />
+      <change beforePath="$PROJECT_DIR$/programms/38.04.01-Бизнес-аналитика(невыровнял).html" afterPath="$PROJECT_DIR$/programms/38.04.01-Бизнес-аналитика(невыровнял).html" />
       <change beforePath="$PROJECT_DIR$/programms/38.04.02-Менеджмент.html" afterPath="$PROJECT_DIR$/programms/38.04.02-Менеджмент.html" />
+      <change beforePath="$PROJECT_DIR$/programms/44.03.01-математика.html" afterPath="$PROJECT_DIR$/programms/44.03.01-математика.html" />
+      <change beforePath="$PROJECT_DIR$/programms/44.03.01-физ культ.html" afterPath="$PROJECT_DIR$/programms/44.03.01-физ культ.html" />
+      <change beforePath="$PROJECT_DIR$/programms/44.03.05-биология химия.html" afterPath="$PROJECT_DIR$/programms/44.03.05-биология химия.html" />
+      <change beforePath="$PROJECT_DIR$/programms/44.03.05-русский англ.html" afterPath="$PROJECT_DIR$/programms/44.03.05-русский англ.html" />
+      <change beforePath="$PROJECT_DIR$/programms/44.03.05-русский и литра.html" afterPath="$PROJECT_DIR$/programms/44.03.05-русский и литра.html" />
+      <change beforePath="$PROJECT_DIR$/programms/49.03.01.html" afterPath="$PROJECT_DIR$/programms/49.03.01.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="program-mag-eng.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="program-mag-eng.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1255">
-              <caret line="253" column="128" lean-forward="false" selection-start-line="253" selection-start-column="128" selection-end-line="253" selection-end-column="128" />
+            <state relative-caret-position="70">
+              <caret line="213" column="17" lean-forward="false" selection-start-line="213" selection-start-column="17" selection-end-line="213" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="44.03.01-физ культ.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programms/44.03.01-физ культ.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="227" column="18" lean-forward="false" selection-start-line="227" selection-start-column="18" selection-end-line="227" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -36,9 +61,12 @@
     <findStrings>
       <find>Мор</find>
       <find>-bac-</find>
+      <find>препоа</find>
+      <find>препоаватели</find>
     </findStrings>
     <replaceStrings>
       <replace>-mag-</replace>
+      <replace>преподаватели</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -78,6 +106,7 @@
         <option value="$PROJECT_DIR$/program-mag-soc.html" />
         <option value="$PROJECT_DIR$/programms/38.04.02-Менеджмент.html" />
         <option value="$PROJECT_DIR$/program-mag-eng.html" />
+        <option value="$PROJECT_DIR$/programms/44.03.01-физ культ.html" />
       </list>
     </option>
   </component>
@@ -87,10 +116,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="819" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -111,7 +139,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,6 +160,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,20 +202,23 @@
       <workItem from="1521014953108" duration="2806000" />
       <workItem from="1521456144111" duration="364000" />
       <workItem from="1521615852487" duration="6156000" />
-      <workItem from="1521702941102" duration="1239000" />
+      <workItem from="1521702941102" duration="2527000" />
+      <workItem from="1521731485449" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10565000" />
+    <option name="totallyTimeSpent" value="11976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="819" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -199,7 +230,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -214,13 +244,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/program-mag-mat.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#th#4;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,6 +447,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="236" column="190" lean-forward="false" selection-start-line="236" selection-start-column="190" selection-end-line="236" selection-end-column="190" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +565,7 @@
         <state relative-caret-position="720">
           <caret line="149" column="63" lean-forward="false" selection-start-line="149" selection-start-column="63" selection-end-line="149" selection-end-column="63" />
           <folding>
-            <element signature="n#style#0;n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -546,16 +582,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="170" column="36" lean-forward="true" selection-start-line="170" selection-start-column="36" selection-end-line="170" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#th#4;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/program-mag-eng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1255">
-          <caret line="253" column="128" lean-forward="false" selection-start-line="253" selection-start-column="128" selection-end-line="253" selection-end-column="128" />
+        <state relative-caret-position="70">
+          <caret line="213" column="17" lean-forward="false" selection-start-line="213" selection-start-column="17" selection-end-line="213" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programms/44.03.01-физ культ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="227" column="18" lean-forward="false" selection-start-line="227" selection-start-column="18" selection-end-line="227" selection-end-column="18" />
           <folding />
         </state>
       </provider>
