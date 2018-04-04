@@ -89,3 +89,7 @@ a:hover{
     width: 90%;
     height: 100%;
 }
+.sfedu-card{
+    width: 49%;
+    min-height: 380px;
+}
